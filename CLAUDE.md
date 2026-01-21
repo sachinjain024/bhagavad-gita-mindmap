@@ -8,7 +8,7 @@ This is a static HTML website presenting the Bhagavad Gita in an accessible, min
 
 ```
 bhagwad-gita/
-├── bhagavad-gita-mindmap.html  # Main landing page with all 18 chapters
+├── index.html  # Main landing page with all 18 chapters
 ├── styles.css                   # Shared CSS for all pages
 ├── chapters/
 │   ├── chapter-01.html         # Chapter 1: Observing the Armies
